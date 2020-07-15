@@ -1,0 +1,8 @@
+*.swp
+.project
+.classpath
+.settings
+.cache-main
+target/
+walkmanager.log
+/bin
